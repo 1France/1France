@@ -1,4 +1,4 @@
-<p align="center"> ![](https://komarev.com/ghpvc/?username=1France&label=🇫🇷&color=405a82&abbreviated)
+![](https://komarev.com/ghpvc/?username=1France&label=🇫🇷&color=405a82&abbreviated)
 
 <p align="center">  “𝐆𝐥𝐨𝐫𝐲 𝐢𝐬 𝐟𝐥𝐞𝐞𝐭𝐢𝐧𝐠, 𝐛𝐮𝐭 𝐨𝐛𝐬𝐜𝐮𝐫𝐢𝐭𝐲 𝐢𝐬 𝐟𝐨𝐫𝐞𝐯𝐞𝐫.” 
     <p> 
